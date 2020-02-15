@@ -1,0 +1,38 @@
+{
+  "name": "react-native-paper-select",
+  "version": "1.0.0",
+  "description": "A Picker component for React Native using material input for Android",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElavanResu/react-native-paper-select.git"
+  },
+  "keywords": [
+    "dropdown",
+    "material select",
+    "material dropdown",
+    "react native paper",
+    "picker",
+    "select",
+    "react",
+    "react-native",
+    "react native",
+    "expo",
+    "items"
+  ],
+  "files": [
+    "/src"
+  ],
+  "dependencies": {
+    "react-native-paper": "^3.6.0"
+  },
+  "author": "Shubham Navale <navaleshubham94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElavanResu/react-native-paper-select/issues"
+  },
+  "homepage": "https://github.com/ElavanResu/react-native-paper-select#readme"
+}
